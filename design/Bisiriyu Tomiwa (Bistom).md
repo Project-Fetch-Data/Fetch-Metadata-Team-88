@@ -1,4 +1,4 @@
-This is the link to the design system i worked on with @Rophiq
+This is the link to the design system i worked on with @Rophia
 https://www.figma.com/file/TcbMt7FHxNFJ4CgH3GnQCI/Team-88_Fetch-Metadata?node-id=12%3A2
 These are the links to the designs i worked on
 https://www.figma.com/file/TcbMt7FHxNFJ4CgH3GnQCI/Team-88_Fetch-Metadata?node-id=4%3A23
