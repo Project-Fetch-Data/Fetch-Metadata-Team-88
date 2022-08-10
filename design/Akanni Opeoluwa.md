@@ -5,3 +5,5 @@ https://github.com/zuri-training/Fetch-Metadata-Team-88/issues/21
 https://github.com/zuri-training/Fetch-Metadata-Team-88/issues/20
 
 https://github.com/zuri-training/Fetch-Metadata-Team-88/issues/19
+
+https://github.com/zuri-training/Fetch-Metadata-Team-88/issues/17
