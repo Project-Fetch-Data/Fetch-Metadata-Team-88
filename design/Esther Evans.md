@@ -1,5 +1,7 @@
 Github task link:
 https://github.com/orgs/zuri-training/projects/161#
+https://github.com/zuri-training/Fetch-Metadata-Team-88/issues/15
+https://github.com/zuri-training/Fetch-Metadata-Team-88/issues/16
 
 The link to the figjam file i worked on:
 https://www.figma.com/file/riPKaE7IwPbhEh65q2Jbov/Fetch_metadata-Schema?node-id=0%3A1
