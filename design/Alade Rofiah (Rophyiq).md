@@ -1,10 +1,10 @@
-Task link
+- Task link
 https://github.com/orgs/zuri-training/projects/161#
 
 Submisssion link
 https://www.figma.com/file/XqzmgUbKyMwF3nJKQvwghf/Untitled?node-id=0%3A1
 
-Design system task link
+- Design system task link
 
 
 Submission link 
