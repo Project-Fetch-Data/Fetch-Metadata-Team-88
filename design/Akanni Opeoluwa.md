@@ -16,5 +16,7 @@ https://www.figma.com/file/IcogxO1PszR71tyvvjQswt/Untitled?node-id=0%3A1
 
 https://www.figma.com/file/IcogxO1PszR71tyvvjQswt/Untitled?node-id=6%3A4202
 
-Research limks
+Research link
+
+https://docs.google.com/document/d/1V-CsWNocUllupPYLu3KicmMY2abUbJ4wbuCy5uT--h8/edit?usp=sharing
 
