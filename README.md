@@ -41,14 +41,29 @@ run `./env/Scripts/activate`
 make sure you using Command-line not Powershell
 
 **Requirements**
+To work with the project well, you need to install the package dependencies.Make sure your environment is active.
+
+> Install requirements
+
+run `pip install -r requirements.txt`
+
+and wait for all the packages to be installed before you start using the django project.
 
 ---
 
-**Installation**
+**Project Initialization**
+To start working with the project after installing the dependencies you need to first initialize your django project.
+
+run `python manage.py makemigrations`
+and then
+run `python manage.py migrate`
 
 ---
 
 **Execution**
+Now after successfull execution of the commands above you can run your django server and view the web app
+
+run `python manage.py runserver`
 
 ---
 
