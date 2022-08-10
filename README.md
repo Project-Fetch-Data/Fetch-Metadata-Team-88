@@ -4,6 +4,8 @@ This team is building a web app that extracts metadata of files
 
 Our Project Documentation
 
+User research 
+
 Getting started
 
 Requirements
@@ -11,3 +13,5 @@ Requirements
 Installation
 
 Execution
+
+App Pass: bsdhjmxkwlysgrjt
