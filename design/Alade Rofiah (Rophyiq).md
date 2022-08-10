@@ -1,6 +1,8 @@
 - Task link
 https://github.com/zuri-training/Fetch-Metadata-Team-88/issues/18
 https://github.com/zuri-training/Fetch-Metadata-Team-88/issues/17
+https://github.com/zuri-training/Fetch-Metadata-Team-88/issues/15
+
 Submisssion link
 https://www.figma.com/file/XqzmgUbKyMwF3nJKQvwghf/Untitled?node-id=0%3A1
 
