@@ -1,4 +1,4 @@
-These are the links to the issues that i worked on
+These are the links to the issues that I collaborated on
 
 https://github.com/zuri-training/Fetch-Metadata-Team-88/issues/21
 
@@ -21,3 +21,5 @@ Research link
 https://docs.google.com/document/d/1V-CsWNocUllupPYLu3KicmMY2abUbJ4wbuCy5uT--h8/edit?usp=sharing
 
 https://www.figma.com/file/PnKiC90VPKRTd9JStjiGN3/Untitled?node-id=0%3A1
+
+Involved in the review of other issues as the team lead
