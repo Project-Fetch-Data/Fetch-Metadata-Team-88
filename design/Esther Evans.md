@@ -1,3 +1,6 @@
+Github task link
+[(https://github.com/orgs/zuri-training/projects/161#)
+
 The link to the figjam file i worked on:
 https://www.figma.com/file/riPKaE7IwPbhEh65q2Jbov/Fetch_metadata-Schema?node-id=0%3A1
 
